@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(188, 255, 233);
+}
+h1{
+    color: aqua;
+}
+#snapshot{
+background-color: blanchedalmond;
+color: crimson;
+border-radius: 30px;
+}
